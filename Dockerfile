@@ -1,6 +1,6 @@
-# Dockerfile for installing and running Nginx
+# Dockerfile for python flask enviroment
 
-# Select ubuntu as the base image
+# Select debian as the base image
 FROM debian:testing
 
 MAINTAINER Nianhua.Wei
