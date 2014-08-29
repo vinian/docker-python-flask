@@ -1,0 +1,10 @@
+flask
+flask-login
+sqlalchemy
+flask-sqlalchemy
+flask-mail
+flask-googlelogin
+pyotp
+mysql-python
+passlib
+pycrypto
